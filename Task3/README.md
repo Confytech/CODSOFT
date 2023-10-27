@@ -1,0 +1,1 @@
+This task provides a basic structure for an ATM machine, a user's bank account, and three main operations: withdrawing, depositing, and checking the balance. Please note that this is a simplified representation, and in a real-world application, security and additional features would be essential.
