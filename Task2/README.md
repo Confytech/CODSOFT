@@ -1,0 +1,1 @@
+Here's a Java program that takes marks obtained in each subject, calculates the total marks, average percentage, and assigns grades based on the average percentage. It then displays the results to the user.
